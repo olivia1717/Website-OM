@@ -1,0 +1,18 @@
+body {
+  color: DeepSkyBlue;
+  font-family: sans-serif;
+  margin: 30;
+}
+
+div {
+  min-height: 20vh;
+  width: 75vw;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+body {
+  text-align: left-center;
+}
